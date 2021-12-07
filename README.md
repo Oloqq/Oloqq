@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+### Github.io
 https://oloqq.github.io/
+
+### Fork
+https://github.com/Oloqq/SAM
 
 <!--
 **Oloqq/Oloqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
