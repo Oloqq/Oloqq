@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+there is nothing interesting in here i just did this quickly for university
+
 ### Github.io
 https://oloqq.github.io/
 
